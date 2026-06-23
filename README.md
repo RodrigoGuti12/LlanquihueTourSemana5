@@ -2,10 +2,10 @@
 
 ## Autor del proyecto
 
-Nombre completo: Rodrigo Fabián Gutiérrez Espinoza
-Seccion: [PRY2202
-Carrera: Analista Programador Computacional
-Sede: [Escribe aqui tu sede]
+Nombre completo: Rodrigo Fabián Gutiérrez Espinoza  
+Seccion: PRY2202 DESARROLLO ORIENTADO A OBJETOS I_004A
+Carrera: Analista Programador Computacional     
+Sede: Online
 
 ---
 
@@ -105,7 +105,7 @@ En el menu de consola, selecciona primero la opcion 1 para cargar los colaborado
 
 ---
 
-Repositorio GitHub: [Pega aqui el enlace al repositorio]
-Fecha de entrega: [DD/MM/2025]
+Repositorio GitHub: https://github.com/RodrigoGuti12/LlanquihueTourSemana5  
+Fecha de entrega: 22/06/2026
 
 © Duoc UC | Escuela de Informatica y Telecomunicaciones | PRY2202 Desarrollo Orientado a Objetos I
