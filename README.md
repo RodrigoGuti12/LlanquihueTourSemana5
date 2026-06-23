@@ -3,17 +3,17 @@
 ## Autor del proyecto
 
 Nombre completo: Rodrigo Fabián Gutiérrez Espinoza  
-Seccion: PRY2202 DESARROLLO ORIENTADO A OBJETOS I_004A
+Sección: PRY2202 DESARROLLO ORIENTADO A OBJETOS I_004A  
 Carrera: Analista Programador Computacional     
 Sede: Online
 
 ---
 
-## Descripcion general del sistema
+## Descripción general del sistema
 
 Este proyecto corresponde a la Actividad Sumativa 2 de la asignatura Desarrollo Orientado a Objetos I. Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es modelar y gestionar los colaboradores de la agencia de turismo Llanquihue Tour, ubicada en la Region de Los Lagos.
 
-El sistema permite leer datos de colaboradores desde un archivo CSV externo, cargarlos en una coleccion ArrayList y realizar operaciones de busqueda, filtrado y visualizacion por consola. El proyecto aplica los principios de encapsulamiento, composicion y herencia, organizado en paquetes funcionales con responsabilidades claramente separadas.
+El sistema permite leer datos de colaboradores desde un archivo CSV externo, cargarlos en una colección ArrayList y realizar operaciones de búsqueda, filtrado y visualización por consola. El proyecto aplica los principios de encapsulamiento, composición y herencia, organizado en paquetes funcionales con responsabilidades claramente separadas.
 
 ---
 
@@ -108,4 +108,4 @@ En el menu de consola, selecciona primero la opcion 1 para cargar los colaborado
 Repositorio GitHub: https://github.com/RodrigoGuti12/LlanquihueTourSemana5  
 Fecha de entrega: 22/06/2026
 
-© Duoc UC | Escuela de Informatica y Telecomunicaciones | PRY2202 Desarrollo Orientado a Objetos I
+Duoc UC | Escuela de Informatica y Telecomunicaciones | PRY2202 Desarrollo Orientado a Objetos I
