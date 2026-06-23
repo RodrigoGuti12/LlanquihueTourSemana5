@@ -105,7 +105,7 @@ En el menu de consola, selecciona primero la opcion 1 para cargar los colaborado
 
 ---
 
-Repositorio GitHub: https://github.com/RodrigoGuti12/LlanquihueTourSemana5.git
+Repositorio GitHub: https://github.com/RodrigoGuti12/LlanquihueTourSemana5.git  
 Fecha de entrega: 22/06/2026
 
 Duoc UC | Escuela de Informatica y Telecomunicaciones | PRY2202 Desarrollo Orientado a Objetos I
